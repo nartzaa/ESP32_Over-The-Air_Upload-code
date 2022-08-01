@@ -1,6 +1,8 @@
 
 // esp32 chapter6 exm.2
 // Basic Over-The-Air
+// 02_Upload pass IP address port
+
 #include <Arduino.h>
 
 #include <WiFi.h>
